@@ -13,5 +13,10 @@ namespace PhoneBook.App
         {
             return x + y;
         }
+
+        public static decimal Multiplication(decimal a, decimal b)
+        {
+            return a * b;
+        }
     }
 }
